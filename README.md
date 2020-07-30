@@ -1,24 +1,3 @@
-# simple-blog
+# Monster Slayer Game Following VUEJS Course of Maximilian.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Download, install dependencies & (Dev or Prod) or Just View [Live](https://moslayer-game-max.netlify.app/) Here
